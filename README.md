@@ -5,12 +5,12 @@ this project is just to study how to interact solidity abi with application code
 
 ## Application 
 
-![](https://github.com/gyu-young-park/krypt-web3/picture/1.png?raw=true)
+![pic](https://github.com/gyu-young-park/krypt-web3/blob/main/picture/1.png?raw=true)
 
-![](https://github.com/gyu-young-park/krypt-web3/picture/2.png?raw=true)
+![pic](https://github.com/gyu-young-park/krypt-web3/blob/main/picture/2.png?raw=true)
 
-![](https://github.com/gyu-young-park/krypt-web3/picture/3.png?raw=true)
+![pic](https://github.com/gyu-young-park/krypt-web3/blob/main/picture/3.png?raw=true)
 
-![](https://github.com/gyu-young-park/krypt-web3/picture/4.png?raw=true)
+![pic](https://github.com/gyu-young-park/krypt-web3/blob/main/picture/4.png?raw=true)
 
 
