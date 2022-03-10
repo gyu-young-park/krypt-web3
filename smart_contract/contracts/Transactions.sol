@@ -23,7 +23,7 @@ contract Transactions {
         emit Transfer(msg.sender, receiver, amount, message, block.timestamp, keyword);
     }
 
-    function getAllTransations() public view returns (TransferStruct[] memory) {
+    function getAllTransactions() public view returns (TransferStruct[] memory) {
         return transactions;
     }
     function getTransactionCount() public view returns (uint256) {
